@@ -1,0 +1,3 @@
+APPLICATION_NAME=Kodiak Kapture
+EXECUTABLE=Kodiak Kapture.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Kodiak Kapture/manifest.xml

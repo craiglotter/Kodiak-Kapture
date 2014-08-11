@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DxPlay">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\administrator\Desktop\DirectShowSamples-April-2006\Samples\Players\DxPlay\DxPlay.sln">
+</Property><Property Name="Date" Value="26 October 2006">
+</Property><Property Name="Time" Value="12:08 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DxPlay.sln" Description="File successfully backed up as C:\Documents and Settings\administrator\Desktop\DirectShowSamples-April-2006\Samples\Players\DxPlay\Backup\DxPlay.sln">
+</Event><Event ErrorLevel="0" Project="DxPlay" Source="DxPlay.csproj" Description="Project file successfully backed up as C:\Documents and Settings\administrator\Desktop\DirectShowSamples-April-2006\Samples\Players\DxPlay\Backup\DxPlay.csproj">
+</Event><Event ErrorLevel="0" Project="DxPlay" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\administrator\Desktop\DirectShowSamples-April-2006\Samples\Players\DxPlay\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DxPlay" Source="Capture.cs" Description="File successfully backed up as C:\Documents and Settings\administrator\Desktop\DirectShowSamples-April-2006\Samples\Players\DxPlay\Backup\Capture.cs">
+</Event><Event ErrorLevel="0" Project="DxPlay" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\administrator\Desktop\DirectShowSamples-April-2006\Samples\Players\DxPlay\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DxPlay" Source="readme.txt" Description="File successfully backed up as C:\Documents and Settings\administrator\Desktop\DirectShowSamples-April-2006\Samples\Players\DxPlay\Backup\readme.txt">
+</Event><Event ErrorLevel="0" Project="DxPlay" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\administrator\Desktop\DirectShowSamples-April-2006\Samples\Players\DxPlay\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="DxPlay" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\administrator\Desktop\DirectShowSamples-April-2006\Samples\Players\DxPlay\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DxPlay" Source="DxPlay.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DxPlay" Source="DxPlay.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DxPlay.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DxPlay.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DxPlay" Source="DxPlay.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
